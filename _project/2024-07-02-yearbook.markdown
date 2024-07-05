@@ -7,6 +7,6 @@ status: Complete
 ---
 I got the oppertunity to help make our school's yearbook as an editor-in-chief! I got to learn a ton about design and how to manage making a project this big. I even got to make my own custom page where I interviewed my peers about their special talents/asperations and showcased them in the yearbook. It was a great experience and I got closer to one of my friends because of it too! Would highly recommend taking the yearbook course at WLMAC if you're studying there. Designing pages was seriously so much fun (but planning the style guide was not- took ages to find good sci-fi-retro-y fonts), here's some examples of a few of the pages I made:
 
-<img src="{{site.baseurl | prepend: site.url}}assets/projectPics/yearbookPics/2.png"/>
-<img src="{{site.baseurl | prepend: site.url}}assets/projectPics/yearbookPics/1.png"/>
-<img src="{{site.baseurl | prepend: site.url}}assets/projectPics/yearbookPics/3.png"/>
+<img src="../assets/projectPics/yearbookPics/2.png"/>
+<img src="../assets/projectPics/yearbookPics/1.png"/>
+<img src="../assets/projectPics/yearbookPics/3.png"/>
