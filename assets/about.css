@@ -1,0 +1,56 @@
+.skills {
+    border-left: hsl(42, 100%, 50%) 5px solid;
+    height: 150px;
+    padding-left: 25px;
+}
+
+.skills h1 {
+    font-size: 35px;
+}
+
+#aboutCard {
+    margin: 0 auto;
+    padding: 30px 60px;
+    padding-left: 50px;
+    background-color: #242424;
+    align-items: center;
+    font-family: 'Open Sans', sans-serif;
+    overflow: auto;
+    border-radius: 10px;
+    box-shadow: 0 0 7px 3px #000000,
+    12px 0px #FFB200;
+}
+
+.page-content {
+    padding: 20px 0;
+}
+
+#aboutCard h1 {
+    font-weight: bold;
+}
+
+img {
+    width: 20em;
+    float: left;
+    margin-right: 35px;
+}
+
+.post-title {
+    padding: 5px 0;
+}
+
+p {
+    width: 57em;
+}
+
+.post-content {
+    height: 505px;
+    padding-left: 25px;
+    border-left: #FFB200 5px solid;
+}
+
+.skills img {
+    float: left;
+    height: 80px;
+    width: auto;
+}

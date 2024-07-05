@@ -1,0 +1,29 @@
+#blogContent {
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+#blogContent li {
+    background-color: #242424;
+    padding: 20px 40px;
+    list-style-type: none;
+    border-left: 5px solid #FFB200;
+    border-radius: 10px;
+}
+
+#blogContent li:hover {
+    background-color: #1c1c1c;
+    color: #FFB200;
+}
+
+#blogContent a:hover {
+    text-decoration: none;
+}
+
+#blogContent div {
+    color: #cacaca;
+}
+
+#blogContent p {
+    color: white;
+}

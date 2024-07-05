@@ -1,0 +1,16 @@
+---
+layout: projects
+title: Projects
+---
+<h1>Projects</h1>
+
+<ul>
+  {% for proj in site.project %}
+  <li><a href="{{ proj.url }}">
+      <h2>{{ proj.title }}</h2>
+      <img src="{{ proj.image }}"/>
+      {{ proj.excerpt | truncatewords: 30}}
+      <p class="status">Status: {{ proj.status }}</p>
+    </a></li>
+  {% endfor %}
+</ul>

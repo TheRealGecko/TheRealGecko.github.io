@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "Drone (I'm kinda dumb)"
+date:   2024-07-02 18:39:17 -0400
+image: "../assets/projectPics/suffering.png"
+status: In Progress
+---
+Ok so I've decided that a good summer project this year is to make a drone. Which IS doable like I'm not making it entirely from scratch. But I want to make the flight control system from scratch because I like suffering I guess. I'm going to post my progress in my blog so I can hold myself accountable because I WANT to get this done please. Anyways yeah lol pray this works out.
+
+

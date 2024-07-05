@@ -1,0 +1,24 @@
+.post {
+    background-color: #242424;
+    margin: 20px 0;
+    padding: 20px 30px;
+    font-family: 'Open Sans', sans-serif;
+    border-radius: 10px;
+    box-shadow: 0 0 2px 1px #000000,
+    7px 0px #FFB200;
+}
+
+h1 {
+    font-weight: bold;
+}
+
+.date {
+    color: #cacaca;
+}
+
+img {
+    height: 400px;
+    max-width: 100%;
+    display: block;
+    margin: 20px 0;
+}
